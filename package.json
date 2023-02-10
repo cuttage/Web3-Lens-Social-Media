@@ -1,6 +1,7 @@
 {
-  "name": "family-web3-lens",
-  "version": "0.1.0",
+  "name": "web3-lens-social-media",
+  "version": "1.0.0",
+  "author": "Marta Fattori <martafattori@protonmail.ch> (https://github.com/cuttage/)",
   "private": true,
   "scripts": {
     "dev": "next dev",
